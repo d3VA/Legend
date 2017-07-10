@@ -1,0 +1,8 @@
+{
+  "name": "Legend",
+  "description": "A legend component for BitQuery VA-App: zoom and filter. Creates interactive legends which enable to filter and project certain parts of data according to various parameters. Legend types: Clusters, Licences, Task views, Layout settings, Control legend.",
+  "author": "Svetlana Bykovskaya <bykovskaya.svetlana@gmail.com>, Lukas Borke <lukas@borke.net>",
+  "license": "Apache License 2.0",
+  "version": "0.6.0",
+  "main": "Legend.js"
+}
